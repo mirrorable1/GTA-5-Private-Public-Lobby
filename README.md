@@ -1,8 +1,10 @@
 # GTA-5-Private-Public-Lobby
 Have your own gta online solo lobby. 
 
+Extract GTA5PPL.zip to any folder, Then Launch GTA-5-Private-Public-Lobby.exe, Launch your game then wait until in lobby then simply alt+tab into program click start wait until messagebox saying youre in your own lobby appears then alt+tab back into game and you're in your own solo lobby.
 
-Extract Files Into Folder Launch GTA-5-Private-Public-Lobby.exe then launch gta online wait till you are loaded in lobby then click start on the program wait until message box appears and says its ok to close the program and you'll be in your own solo public lobby. 
 
 
+
+***********************************************************************************************************************************
 Written in python and compiled with cx_installer for ease of use. 
